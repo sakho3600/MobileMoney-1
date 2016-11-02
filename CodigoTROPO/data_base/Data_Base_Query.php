@@ -6,6 +6,7 @@
  * Date: 10/24/2016
  * Time: 6:32 PM
  */
+include 'DataBase_Managment.php';
 
 class Data_Base_Query
 {
